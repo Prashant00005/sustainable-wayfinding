@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_fc89242894c13ecfd7c479ec4b16ff1e3ed2f708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_bcf929f6e0a915909bd8a1a949767a24ce2f39f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_92cfacd328ecfbf64c6aee45030d7619418bc68b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_79445d48794f2dd3b25f8867183726f4ae7dedfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2ceface966edff5511ed73b5db38ef4d35afa03e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_23fbd66160de7fae369ae55fac7dd62fea50f27a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_ff4974201aedc17491f4f88b47447c9b91a0fe8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3b7bd52e7b84674c67e424dde64f7b7990d7bc54">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.52.2_4f35c6958a884994f40a18e3b461860b2af9a1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f251e9d37d771578f1f0259dbe7f3dd3a0101a0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/wayfinderApp/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/wayfinderApp-react-native-vector-icons-unspecified_b1ec77d0cfe8caf6f53d9d663becd92456cfcf49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c8f658810cb6ceffcba23b2ea106cfe91c89a6c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_781b4bde01a29b07e1c28024891af7e2c8dcf645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_086a8074285f66eca73167fd0dc514c8d0308c61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_65d7e441e82e61cabca3771bd24d0deb8f7d8051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_47199963d24c81943ba0c2008f494d8e7737e291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1645ae425d6fa8c6334f5af0c7b2f8fa4c6a8b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e30042d5f93c04a1c0d01da5e4ac3ed838bd3adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a0b0383e8be7e1416b10f589bed82a3ff7f7abd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_3facbf3ffa381c4f8787daaa6821054e16de840a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_bee3c532dd7d4d745f4636ade811bc84cce59878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0acdbf7c23fe8402500d229b704d4af1cf970eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/WolfDen/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/WolfDen/git/sustainable-wayfinding/wayfinderApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_42ba3241c97f3daf6f258293b480e095ee133d06.jar" />
+    </item>
+
+</items>
