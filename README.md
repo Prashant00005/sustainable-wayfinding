@@ -1,1 +1,5 @@
-# sustainable-wayfinding
+# Dynamic Sustainable-Wayfinding
+
+The project is an attempt to provide real-time wayfinding android application for travellers that is privacy-aware, and improves the reliability of the mobility experience across all transportation modes. It will build intelligence at the edges of the network (i.e., decentralised) to protect privacy while providing real-time decision-making and decision support to very large numbers of travellers, across a wide range of transportation modes (including e.g., pedestrian, bike, car, bus, tram and ride sharing) tailored to their individual priorities (pollution avoidance, emissions reduction, speed, reliability, comfort etc.). A single trip may involve multiple modes of transport, which may be modified en-route, given changes in the environment, e.g., congestion, noise pollution, crowded and so on.
+
+<br>Some of the main challenges include identifying when a user’s interests are likely to conflict with sustainability goals, how a user can be incentivised to choose a more sustainable travel plan, and when to trigger an adaptation of the travel plan in line with users’ preferences.
